@@ -9,43 +9,43 @@
   "sub": "Introduksjon til IS - Informasjonssystem",
   "question": "Hvordan kan informasjonssystemer kan bidra til verdiskaping?",
   "hint": "digitalisere fysisk produkt, informasjonsprodukt, forvaltning og samfunn",
-  "ans": "Digitalisere koordinering av råvareflyt som fisk og olje\n Informasjonsprodukt er nettavis eller nettbank\n Verdiøkning i saksbehandlingsflyt, og helse-systemer"
+  "ans": "Digitalisere koordinering av råvareflyt som fisk og olje\nInformasjonsprodukt er nettavis eller nettbank\nVerdiøkning i saksbehandlingsflyt, og helse-systemer"
 },
 {
   "sub": "Introduksjon til IS - Informasjonssystem",
   "question": "Kategoriser informasjonssystemer etter bruksområder",
   "hint": "drift, monitorering, beslutningsstøtte og kommunikasjon og samarbeid",
-  "ans": "Systemer for drift av bedriften: salgssystem\n Systemer for monitorering: regnskapssystem\n Systemer for besluttningsstøtte: CAD? Simulasjonssystemer?\n komminikasjon og samarbeid: e-post/Skype/Lync"
+  "ans": "Systemer for drift av bedriften: salgssystem\nSystemer for monitorering: regnskapssystem\nSystemer for besluttningsstøtte: CAD? Simulasjonssystemer?\nkomminikasjon og samarbeid: e-post/Skype/Lync"
 },
 {
   "sub": "Introduksjon til IS - Informasjonssystem",
   "question": "Data, informasjon, kunnskap",
   "hint": "Definisjon",
-  "ans": "Data - Registrerte egenskaper ved ting\n Informasjon - Tolkning av data for et formål\n Kunnskap - Forståelse som påvirker handlinger"
+  "ans": "Data - Registrerte egenskaper ved ting\nInformasjon - Tolkning av data for et formål\nKunnskap - Forståelse som påvirker handlinger"
 },
 {
   "sub": "Introduksjon til IS - Informasjonssystem",
   "question": "Hvilke lag består et datasystem av?",
   "hint": "Tre lag",
-  "ans": "Brukergrensesnitt\n Forettningslogikk og prosesser\n Data"
+  "ans": "Brukergrensesnitt\nForettningslogikk og prosesser\nData"
 },
 {
   "sub": "Introduksjon til IS - Organisasjoner, strategi og IS",
   "question": "Hva er en strategi",
   "hint": "Visjon, strategi, målsetting, plan, strateginivå",
-  "ans": "Visjon - Hva ønsker vi å oppnå?\n Strategi - Hvordan ønsker vi å oppnå det?\n Målsetting - Resultatmål(kvantifisert, tidfestet)\n Plan - Iversetting og gjennomføring\n Strateginivå - Virksomhetsstrategi, organisasjonsstrategi, IKT-Strategi"
+  "ans": "Visjon - Hva ønsker vi å oppnå?\nStrategi - Hvordan ønsker vi å oppnå det?\nMålsetting - Resultatmål(kvantifisert, tidfestet)\nPlan - Iversetting og gjennomføring\nStrateginivå - Virksomhetsstrategi, organisasjonsstrategi, IKT-Strategi"
 },
 {
   "sub": "Introduksjon til IS - Organisasjoner, strategi og IS",
   "question": "Hva slags eksterne krefter finnes",
   "hint": "-",
-  "ans": "Samfunn, politikk og lover\n Økonomi og marked\n Teknologi"
+  "ans": "Samfunn, politikk og lover\nØkonomi og marked\nTeknologi"
 },
 {
   "sub": "Introduksjon til IS - Organisasjoner, strategi og IS",
   "question": "Nevn de 5 kreftene i Porters modell",
   "hint": "-",
-  "ans": "Kundemakt\n Leverandørmakt\n Nye alternaitve produkter\n Nye aktører\n Rivaler"
+  "ans": "Kundemakt\nLeverandørmakt\nNye alternaitve produkter\nNye aktører\nRivaler"
 },
 {
   "sub": "Introduksjon til IS - Organisasjoner, strategi og IS",
@@ -57,13 +57,13 @@
   "sub": "Introduksjon til IS - Organisasjoner, strategi og IS",
   "question": "Hva er BPR og BPM",
   "hint": "Business process reengeneering, Business process management",
-  "ans": "BPR: Trend på 90-tallet, radikal endring av prosesser og organisasjoner, helt nye IS, lite suksess påa. vanskelig å endre organisasjonen uten å ta hensyn til medarbeidere og deres kompetanse\n BPM: Inkrementell omlegging, forbedre eksisterende prosesser, integrasjon av nye prosesser i eksisterende, mindre endringer i IS, IT deltar som ledende kraft, men i samspill med andre interessenter."
+  "ans": "BPR: Trend på 90-tallet, radikal endring av prosesser og organisasjoner, helt nye IS, lite suksess påa. vanskelig å endre organisasjonen uten å ta hensyn til medarbeidere og deres kompetanse\nBPM: Inkrementell omlegging, forbedre eksisterende prosesser, integrasjon av nye prosesser i eksisterende, mindre endringer i IS, IT deltar som ledende kraft, men i samspill med andre interessenter."
 },
 {
   "sub": "Introduksjon til IS - Prosessmodellering",
   "question": "Hva gjør RIS",
   "hint": "-",
-  "ans": "Roller i samspill\n Synliggjør hvilke roller som er involvert i en prosess\n Synliggjør hva hver enkelt rolle utfører\n Synliggjør relasjoner mellom roller\n Synliggjør hva som overleveres mellom roller"
+  "ans": "Roller i samspill\nSynliggjør hvilke roller som er involvert i en prosess\nSynliggjør hva hver enkelt rolle utfører\nSynliggjør relasjoner mellom roller\nSynliggjør hva som overleveres mellom roller"
 },
 {
   "sub": "Introduksjon til IS - Etikk, personvern og samfunn",
@@ -75,7 +75,7 @@
   "sub": "Introduksjon til IS - Etikk, personvern og samfunn",
   "question": "Nevn noen etiske rammeverk",
   "hint": "-",
-  "ans": "Utilitarianisme\n Rettighetsetikk\n Rettferdighetsetikk\n Velferdsetikk"
+  "ans": "Utilitarianisme\nRettighetsetikk\nRettferdighetsetikk\nVelferdsetikk"
 },
 {
   "sub": "Introduksjon til IS - Etikk, personvern og samfunn",
@@ -93,13 +93,13 @@
   "sub": "Introduksjon til IS - Databaser og nettverk",
   "question": "Hva er en database? Og hva slags typer finnes",
   "hint": "-",
-  "ans": "Organisert samling av data\n Relasjonsdatabaser, OO-databaser, objektirelasjonselle databaser, RDF-databaser, dokuemnetdatabaser"
+  "ans": "Organisert samling av data\nRelasjonsdatabaser, OO-databaser, objektirelasjonselle databaser, RDF-databaser, dokuemnetdatabaser"
 },
 {
   "sub": "Introduksjon til IS - Databaser og nettverk",
   "question": "Hva er en transaksjon? Hva er krav for en transaksjon",
   "hint": "ACID",
-  "ans": "Endring i data som representer en endring i bedriften\n Atomic, Consistent, Isolated, Durable"
+  "ans": "Endring i data som representer en endring i bedriften\nAtomic, Consistent, Isolated, Durable"
 },
 {
   "sub": "Introduksjon til IS - Mobile og sosiale IS",
@@ -111,7 +111,7 @@
   "sub": "Introduksjon til IS - Mobile og sosiale IS",
   "question": "Hva er Snapchat?",
   "hint": "-",
-  "ans": "Sosialt medie for mobile brukere. Finnes kun på iOS og Android. Formidler flyktige bilder og video. Sharebale.\n konkurrenter: Gobi, Facebook, Instagram"
+  "ans": "Sosialt medie for mobile brukere. Finnes kun på iOS og Android. Formidler flyktige bilder og video. Sharebale.\nkonkurrenter: Gobi, Facebook, Instagram"
 },
 {
   "sub": "Introduksjon til IS - Mobile og sosiale IS",
@@ -141,7 +141,7 @@
   "sub": "Introduksjon til IS - Mobile og sosiale IS",
   "question": "Hva kan bedrifter benytte den sosiale veven til?",
   "hint": "Varehandel, markedsføring, kundesamhandling",
-  "ans": "Varehandel: Kunderating, ekspert- og sponsor-vurderinger\n Markedsføring: Reklame, markedsanalyser, reklame fra brukerene (likes)\n kundesamhandling: Kunder bruker sosiale medier til skryt og kritikk, følsomhet for kritikk på SM er viktig."
+  "ans": "Varehandel: Kunderating, ekspert- og sponsor-vurderinger\nMarkedsføring: Reklame, markedsanalyser, reklame fra brukerene (likes)\nkundesamhandling: Kunder bruker sosiale medier til skryt og kritikk, følsomhet for kritikk på SM er viktig."
 },
 {
   "sub": "Introduksjon til IS - Informasjonssikkerhet",
@@ -165,7 +165,7 @@
   "sub": "Introduksjon til IS - Informasjonssikkerhet",
   "question": "Nevn tre perspektiver av sikring",
   "hint": "Organisatorisk, Systemteknisk, Driftsteknisk",
-  "ans": "Organisatorisk: Ansvar, rutiner og kontroll\n Systemteknisk: OWASP Top10, Secure software life cycle, bugs/flaws\n Driftsteknisk: Adgang- og tilgangskontroll, arkitektur, konfigurering, rutiner"
+  "ans": "Organisatorisk: Ansvar, rutiner og kontroll\nSystemteknisk: OWASP Top10, Secure software life cycle, bugs/flaws\nDriftsteknisk: Adgang- og tilgangskontroll, arkitektur, konfigurering, rutiner"
 },
 {
   "sub": "Introduksjon til IS - Organisasjonen",
@@ -183,19 +183,19 @@
   "sub": "Introduksjon til IS - E-handel",
   "question": "Hva er E-handel?",
   "hint": "-",
-  "ans": "Teknologieske løsninger basert på datanett-teknologier som støtter utveksling av varer og tjenester.\n B2B, B2C, C2C, E-forvaltning, M-handel"
+  "ans": "Teknologieske løsninger basert på datanett-teknologier som støtter utveksling av varer og tjenester.\nB2B, B2C, C2C, E-forvaltning, M-handel"
 },
 {
   "sub": "Introduksjon til IS - E-handel",
   "question": "Hva er et CRM-system?",
   "hint": "-",
-  "ans": "Selger-kunde-applikasjon: Kundestøtte, salgsstøtte, markedsføring, kampanjer\n Kunde-direkte-applikasjoner: Søk, dokumentasjon/FAQ, tilpasset produkt, personaliserte vevsider, e-post, lojalitetsprogram."
+  "ans": "Selger-kunde-applikasjon: Kundestøtte, salgsstøtte, markedsføring, kampanjer\nKunde-direkte-applikasjoner: Søk, dokumentasjon/FAQ, tilpasset produkt, personaliserte vevsider, e-post, lojalitetsprogram."
 },
 {
   "sub": "Introduksjon til IS - E-handel ",
   "question": "Hva er et Avgjøringssystem?",
   "hint": "-",
-  "ans": "System som støtter avgjøringer i en bedrift. Kan skje på alle nivå. Automatiserte, levere datagrunnlag, forvalter kunnskap.\n Data-> Datalager-> Analyser-> Avgjøringssystem"
+  "ans": "System som støtter avgjøringer i en bedrift. Kan skje på alle nivå. Automatiserte, levere datagrunnlag, forvalter kunnskap.\nData-> Datalager-> Analyser-> Avgjøringssystem"
 },
 {
   "sub": "Introduksjon til IS - Systemutvikling",
@@ -249,7 +249,7 @@
   "sub": "Introduksjon til IS - Gjesteforeleser forvaltning",
   "question": "Hva er forholdet mellom utvikling og drift?",
   "hint": "-",
-  "ans": "Utvikling: Krav til system, utforme system, utvikle system\n Drift: Sette i produksjon, drifte, optimalisere"
+  "ans": "Utvikling: Krav til system, utforme system, utvikle system\nDrift: Sette i produksjon, drifte, optimalisere"
 },
 {
   "sub": "Introduksjon til IS - Gjesteforeleser forvaltning",
@@ -261,13 +261,13 @@
   "sub": "Introduksjon til IS - Gjesteforeleser forvaltning",
   "question": "Hva er ITIL?",
   "hint": "Information Technology Infrastructure Library",
-  "ans": "Et strukturert rammeverk for kvalitetssikring av leveranse, drift og support innen IT-sektoren.\n Incident management: identifisere, registrere, klassifisere, analysere gjenopprette og lukke hendelsen\n Endringssyring: 90%(?) av alle problemer og driftsavvik skyldes endringer.\n Konfigurasjonsstyring: Omhandler kontrollen på elementer i infrastrukturen og relasjoner mellom dem."
+  "ans": "Et strukturert rammeverk for kvalitetssikring av leveranse, drift og support innen IT-sektoren.\nIncident management: identifisere, registrere, klassifisere, analysere gjenopprette og lukke hendelsen\nEndringssyring: 90%(?) av alle problemer og driftsavvik skyldes endringer.\nKonfigurasjonsstyring: Omhandler kontrollen på elementer i infrastrukturen og relasjoner mellom dem."
 },
 {
   "sub": "Introduksjon til IS - Smidig systemutvikling",
   "question": "Hva er det agile manifestoet?",
   "hint": "-",
-  "ans": "Individuals and interactions over processes and tools\n Working software over comprehensive documentation\n Customer collaboration over contract negotiation\n Responding to change over following a plan"
+  "ans": "Individuals and interactions over processes and tools\nWorking software over comprehensive documentation\nCustomer collaboration over contract negotiation\nResponding to change over following a plan"
 },
 {
   "sub": "Introduksjon til IS - Smidig systemutvikling",
@@ -285,7 +285,7 @@
   "sub": "Introduksjon til IS - Smidig systemutvikling",
   "question": "Hva er prosjektledertrekanten?",
   "hint": "Scope, resources, schedule",
-  "ans": "Kvalitet er et resultat av omfang, ressurser og tid. Omfang varierer, mens kvalitet, ressurser og tid er konstant. Lemping på kvalitet skaper teknisk gjeld. \n Agil: bytt ut kvalitet om omfang i trekanten! "
+  "ans": "Kvalitet er et resultat av omfang, ressurser og tid. Omfang varierer, mens kvalitet, ressurser og tid er konstant. Lemping på kvalitet skaper teknisk gjeld. \nAgil: bytt ut kvalitet om omfang i trekanten! "
 },
 {
   "sub": "Introduksjon til IS - Smidig systemutvikling",
@@ -315,19 +315,19 @@
   "sub": "Introduksjon til IS - Smidig systemutvikling",
   "question": "Hva er en backlog?",
   "hint": "To typer",
-  "ans": "Produkt-backlog: Samling av alle oppgaver som er identifisert og må eller kan løses i prosjektet. Sprint-backlog: Prosjekteier velger ut opppgaver som skal løses i løpet av sprinten.\n Produkt-backlogen kan hele tiden utvides, endres, Sprint-backlogen er låst for sprinten."
+  "ans": "Produkt-backlog: Samling av alle oppgaver som er identifisert og må eller kan løses i prosjektet. Sprint-backlog: Prosjekteier velger ut opppgaver som skal løses i løpet av sprinten.\nProdukt-backlogen kan hele tiden utvides, endres, Sprint-backlogen er låst for sprinten."
 },
 {
   "sub": "Introduksjon til IS - Prosjektledelse",
   "question": "Hva er et prosjekt?",
   "hint": "-",
-  "ans": "Et prosjekt betegner en innsats som gjøres for å oppnå et definert mål, som oftest innenfor et planlagt tids- og ressursramme.\n Kjennetegn er: entydig målsetting, avgrenset ressurser, engangshendelser, fastlagt start-sluttdato og tverrfaglighet.\nDet er en fleksibel organisasjonsform, med entydige administrative vilkår. God utnytting av eksisterende kompetanse."
+  "ans": "Et prosjekt betegner en innsats som gjøres for å oppnå et definert mål, som oftest innenfor et planlagt tids- og ressursramme.\nKjennetegn er: entydig målsetting, avgrenset ressurser, engangshendelser, fastlagt start-sluttdato og tverrfaglighet.\nDet er en fleksibel organisasjonsform, med entydige administrative vilkår. God utnytting av eksisterende kompetanse."
 },
 {
   "sub": "Introduksjon til IS - Prosjektledelse",
   "question": "Hva kjennetegner et IS-prosjekt?",
   "hint": "-",
-  "ans": "Formål: Organisasjons- og bedriftsutvikling, produktutvikling, utvikling av teknisk støttesystem.\n Ønsket resultat: Nytt, endret eller utfaset informasjonssystem.\n Perspektiv: Planleggingsbasert, smidig, medverknads-basert, politisk."
+  "ans": "Formål: Organisasjons- og bedriftsutvikling, produktutvikling, utvikling av teknisk støttesystem.\nØnsket resultat: Nytt, endret eller utfaset informasjonssystem.\nPerspektiv: Planleggingsbasert, smidig, medverknads-basert, politisk."
 },
 {
   "sub": "Introduksjon til IS - Prosjektledelse",
